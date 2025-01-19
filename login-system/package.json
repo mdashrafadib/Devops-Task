@@ -25,7 +25,7 @@
     "gitignore": "^0.7.0",
     "jsonwebtoken": "^9.0.0",
     "mongodb": "^5.5.0",
-    "mongoose": "^7.1.0",
+    "mongoose": "^7.8.4",
     "nodemon": "^2.0.22",
     "passport": "^0.6.0",
     "passport-github2": "^0.1.12",
